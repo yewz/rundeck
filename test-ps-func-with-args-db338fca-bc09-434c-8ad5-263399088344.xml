@@ -14,7 +14,9 @@
     <scheduleEnabled>true</scheduleEnabled>
     <sequence keepgoing='false' strategy='node-first'>
       <command>
-        <script><![CDATA[powershell -ExecutionPolicy unrestricted -command "& {Import-Module 'C:\Users\wzhao\project\rundeck\test\func-hello.ps1'; SayHello '%1' '%2'}"]]></script>
+        <script><![CDATA[rem test git commit
+
+powershell -ExecutionPolicy unrestricted -command "& {Import-Module 'C:\Users\wzhao\project\rundeck\test\func-hello.ps1'; SayHello '%1' '%2'}"]]></script>
         <scriptargs>${option.arg1} ${option.arg2}</scriptargs>
       </command>
     </sequence>
