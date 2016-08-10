@@ -1,10 +1,10 @@
 <joblist>
   <job>
-    <description>testing import</description>
+    <description></description>
     <executionEnabled>true</executionEnabled>
     <id>a100909a-ae2b-4d4a-be56-3f81e8c6115f</id>
     <loglevel>INFO</loglevel>
-    <name> test-nr-deployment-get</name>
+    <name>test-nr-deployment-get</name>
     <scheduleEnabled>true</scheduleEnabled>
     <sequence keepgoing='false' strategy='node-first'>
       <command>
