@@ -4,7 +4,7 @@
       <options preserveOrder='true'>
         <option name='changelog' value='bug fixes' />
         <option name='deployer' value='Weiwen Zhao' />
-        <option name='revision' value='1.8-SNAPSHOT' />
+        <option name='revision' value='2.0-SNAPSHOT' />
       </options>
     </context>
     <description></description>
