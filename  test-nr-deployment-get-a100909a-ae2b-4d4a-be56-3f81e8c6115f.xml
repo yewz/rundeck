@@ -1,6 +1,6 @@
 <joblist>
   <job>
-    <description></description>
+    <description>test to import</description>
     <executionEnabled>true</executionEnabled>
     <id>a100909a-ae2b-4d4a-be56-3f81e8c6115f</id>
     <loglevel>INFO</loglevel>
