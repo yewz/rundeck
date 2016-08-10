@@ -2,7 +2,7 @@
   <job>
     <context>
       <options preserveOrder='true'>
-        <option name='arg1' value='W' />
+        <option name='arg1' value='WW' />
         <option name='arg2' value='Z' />
       </options>
     </context>
