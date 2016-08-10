@@ -16,3 +16,4 @@ curl -k -x "https://10.76.225.15:80" -X GET https://api.newrelic.com/v2/applicat
     <uuid>a100909a-ae2b-4d4a-be56-3f81e8c6115f</uuid>
   </job>
 </joblist>
+ 
