@@ -3,7 +3,7 @@
     <context>
       <options preserveOrder='true'>
         <option name='changelog' value='bug fixes' />
-        <option name='deployer' value='Weiwen Zhao' />
+        <option name='deployer' value='wzhao' />
         <option name='revision' value='2.0-SNAPSHOT' />
       </options>
     </context>
